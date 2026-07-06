@@ -35,4 +35,8 @@ A simple desktop password manager with a user-friendly interface.
 
 ---
 
+## 🔐 SecureVault Live Demo
+
+👉 Live App Link: https://securevault-sjjmm2ytc43pencj3q3sdm.streamlit.app/
+
 Made by Neha Kanwar
